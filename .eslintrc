@@ -1,0 +1,14 @@
+{
+    "extends": "google",
+    "parserOptions": {
+        "ecmaVersion": 8
+      },
+    "rules":{
+        "linebreak-style": 0,
+        "max-len": 0
+    }, 
+    "env": {
+        "node": true,
+        "mongo": true
+    }
+}
